@@ -1,19 +1,20 @@
 # pyGA
+Copyright (C) 2021 Nguyen Duy Sang <sangduynguyen@gmail.com>, <ndsang@ctu.edu.vn>
+
+## Introduction
+
 Using the genetic algorithm to detect kinetic parameters of thermoluminescence glow curves
 
 ## Installation
 
-You'll need Python 3
+You'll need Python 3.8
 
+Using the python package manager pip you can install pyGA by executing
 ```
 pip install https://github.com/sangduynguyen/py-ga-tl
 ```
-
-At this stage we haven't tagged releases so you just install from the latest version.
-
-To upgrade, uninstall the one you've got, then install again
-
+## Usage
+Just run
 ```
-pip install https://github.com/sangduynguyen/py-ga-tl
+python main.py
 ```
-
