@@ -1,4 +1,4 @@
-# pyTL
+# pyGA
 Using the genetic algorithm to detect kinetic parameters of thermoluminescence glow curves
 
 ## Installation
