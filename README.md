@@ -21,5 +21,5 @@ You can download the zip file from https://github.com/sangduynguyen/pyGATL and r
 python main.py
 ```
 ## Note:
-1. Please watch the video to run this software: https://github.com/sangduynguyen/pyGATL/Demo.gif
+1. Please watch the video to run this software: https://github.com/sangduynguyen/pyGATL/blob/main/Demo.gif
 2. Please see the pyGATL user manual in the "manual" file.
