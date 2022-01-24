@@ -15,7 +15,7 @@ pip install https://github.com/sangduynguyen/py-ga-tl
 ```
 ## Usage
 Just run
-You can download the zip file from https://github.com/sangduynguyen/ga and run it in cmd:
+You can download the zip file from https://github.com/sangduynguyen/pyGATL and run it in cmd:
 
 ```
 python main.py
