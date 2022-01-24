@@ -9,13 +9,13 @@ Using the genetic algorithm to detect kinetic parameters of thermoluminescence g
 
 You'll need Python 3.8
 
-Using the python package manager pip you can install pyGA by executing
+Using the python package manager pip you can install pyGATL by executing
 ```
 pip install https://github.com/sangduynguyen/py-ga-tl
 ```
 ## Usage
 Just run
-You can download the zip file from https://github.com/sangduynguyen/ga and run:
+You can download the zip file from https://github.com/sangduynguyen/ga and run it in cmd:
 
 ```
 python main.py
