@@ -21,4 +21,5 @@ You can download the zip file from https://github.com/sangduynguyen/ga and run:
 python main.py
 ```
 ## Note:
-Please watch the video to run this software
+1. Please watch the video to run this software
+2. Please see the pyGATL user manual in the "manual" file
