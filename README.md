@@ -15,6 +15,10 @@ pip install https://github.com/sangduynguyen/py-ga-tl
 ```
 ## Usage
 Just run
+You can download the zip file from https://github.com/sangduynguyen/ga and run:
+
 ```
 python main.py
 ```
+## Note:
+Please watch the video to run this software
