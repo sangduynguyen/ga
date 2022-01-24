@@ -1,5 +1,5 @@
 # pyGATL
-Copyright (C) 2021 Nguyen Duy Sang <sangduynguyen@gmail.com>, <ndsang@ctu.edu.vn>
+Copyright (C) 2022 Nguyen Duy Sang <sangduynguyen@gmail.com>, <ndsang@ctu.edu.vn>
 
 ## Introduction
 
