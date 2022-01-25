@@ -24,7 +24,7 @@ python main.py
 1. Please watch the video to run this software: https://github.com/sangduynguyen/pyGATL/blob/main/Demo.gif
 2. Please see the pyGATL user manual in the "manual" file.
 
-## Release:
+## Releases:
 Copyright 2022 Nguyen Duy Sang
 
    Licensed under the Apache License, Version 2.0 (the "License");
